@@ -1,0 +1,16 @@
+.odd-ele{
+    background-color:rgb(233, 138, 138);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#first-id{
+    color: blue;
+    font-size: 36px;
+}
+.first{
+    font-size: 24px;
+}
+#second{
+    background-color: rgb(129, 197, 129);
+    font-size: 24px;
+    font-weight: bold;
+}
